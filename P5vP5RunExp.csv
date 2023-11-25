@@ -1,0 +1,16 @@
+SplitBy,TRUE,Men On,Men On_Sort,entityKey,PA,RE_NoOut,RE_1Out,RE_2Out,RR_0out,RR_1out,RR_2out,splitByName
+Empty^0,true,Empty,0,Empty,44236,0.718,0.399,0.151,34.6%,21.5%,9.3%,SplitBy
+Men On^1,true,Men On,1,Men On,43639,1.537,1.040,0.492,61.9%,48.3%,24.8%,SplitBy
+1B^2,true,1B,2,1B,30388,1.521,1.034,0.500,59.6%,45.5%,23.7%,SplitBy
+2B^3,true,2B,3,2B,21735,1.979,1.274,0.596,74.5%,56.4%,28.8%,SplitBy
+3B^4,true,3B,4,3B,11502,2.464,1.581,0.711,90.3%,72.5%,34.3%,SplitBy
+1 On^5,true,1 On,5,1 On,27166,1.228,0.770,0.355,53.9%,39.3%,20.3%,SplitBy
+2 On^6,true,2 On,6,2 On,12960,2.060,1.322,0.620,76.9%,58.6%,29.1%,SplitBy
+Loaded^7,true,Loaded,7,Loaded,3513,2.893,1.936,0.937,90.7%,74.9%,39.1%,SplitBy
+RISP^8,true,RISP,8,RISP,27023,1.992,1.282,0.594,76.7%,59.1%,29.8%,SplitBy
+1B Only^9,true,1B Only,9,1B Only,16616,1.183,0.705,0.310,50.3%,33.4%,15.9%,SplitBy
+2B Only^10,true,2B Only,10,2B Only,7993,1.406,0.845,0.402,67.2%,46.6%,25.0%,SplitBy
+3B Only^11,true,3B Only,11,3B Only,2557,1.589,1.154,0.490,91.1%,73.5%,32.9%,SplitBy
+1st and 2nd^12,true,1st and 2nd,12,1st and 2nd,7528,1.950,1.216,0.587,70.5%,50.4%,27.2%,SplitBy
+1st and 3rd^13,true,1st and 3rd,13,1st and 3rd,2731,2.203,1.409,0.664,89.6%,68.3%,33.1%,SplitBy
+2nd and 3rd^14,true,2nd and 3rd,14,2nd and 3rd,2701,2.416,1.570,0.677,90.1%,73.5%,29.5%,SplitBy

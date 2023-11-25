@@ -1,0 +1,16 @@
+SplitBy,TRUE,Men On After Play,Men On After Play_Sort,entityKey,Loaded,1st&3rd,2nd&3rd,1st&2nd,3bOnly,2bOnly,Empty,1bOnly,splitByName
+Empty^0,true,Empty,0,Empty,0,0,0,0,0,0,0,1,SplitBy
+Men On^1,true,Men On,1,Men On,4,674,8,674,1,286,644,700,SplitBy
+1B^2,true,1B,2,1B,4,573,8,573,1,250,579,638,SplitBy
+2B^3,true,2B,3,2B,4,626,0,626,0,38,59,642,SplitBy
+3B^4,true,3B,4,3B,4,653,8,653,0,236,6,112,SplitBy
+1 On^5,true,1 On,5,1 On,0,22,0,22,1,50,644,14,SplitBy
+2 On^6,true,2 On,6,2 On,0,126,8,126,0,234,0,680,SplitBy
+Loaded^7,true,Loaded,7,Loaded,4,526,0,526,0,2,0,6,SplitBy
+RISP^8,true,RISP,8,RISP,4,673,8,673,0,267,65,700,SplitBy
+1B Only^9,true,1B Only,9,1B Only,0,1,0,1,1,19,579,0,SplitBy
+2B Only^10,true,2B Only,10,2B Only,0,8,0,8,0,25,59,7,SplitBy
+3B Only^11,true,3B Only,11,3B Only,0,13,0,13,0,6,6,7,SplitBy
+1st and 2nd^12,true,1st and 2nd,12,1st and 2nd,0,12,0,12,0,6,0,581,SplitBy
+1st and 3rd^13,true,1st and 3rd,13,1st and 3rd,0,34,8,34,0,223,0,51,SplitBy
+2nd and 3rd^14,true,2nd and 3rd,14,2nd and 3rd,0,80,0,80,0,5,0,48,SplitBy

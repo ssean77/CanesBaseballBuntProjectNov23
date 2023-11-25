@@ -1,0 +1,13 @@
+SplitBy,TRUE,Men On After Play,Men On After Play_Sort,entityKey,Loaded,1st&3rd,2nd&3rd,1st&2nd,3bOnly,2bOnly,Empty,1bOnly,splitByName
+Empty^0,true,Empty,0,Empty,0,0,4,0,4,1,0,7,SplitBy
+Men On^1,true,Men On,1,Men On,1,3,2,3,0,0,0,0,SplitBy
+1B^2,true,1B,2,1B,1,2,0,2,0,0,0,0,SplitBy
+2B^3,true,2B,3,2B,1,0,2,0,0,0,0,0,SplitBy
+3B^4,true,3B,4,3B,0,1,0,1,0,0,0,0,SplitBy
+1 On^5,true,1 On,5,1 On,0,3,2,3,0,0,0,0,SplitBy
+2 On^6,true,2 On,6,2 On,1,0,0,0,0,0,0,0,SplitBy
+RISP^8,true,RISP,8,RISP,1,1,2,1,0,0,0,0,SplitBy
+1B Only^9,true,1B Only,9,1B Only,0,2,0,2,0,0,0,0,SplitBy
+2B Only^10,true,2B Only,10,2B Only,0,0,2,0,0,0,0,0,SplitBy
+3B Only^11,true,3B Only,11,3B Only,0,1,0,1,0,0,0,0,SplitBy
+1st and 2nd^12,true,1st and 2nd,12,1st and 2nd,1,0,0,0,0,0,0,0,SplitBy
